@@ -12,7 +12,7 @@ public class ArrayListExample {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		ArrayList<String> al = new ArrayList<String>();
-		al.add("madhu");
+		al.add("madhuk");
 		al.add("vimal");
 		al.add("sangeetha");
 		ArrayList<String> al1 = new ArrayList<String>();
